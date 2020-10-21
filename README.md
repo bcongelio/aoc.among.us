@@ -1,4 +1,4 @@
-####### **AOC Among Us Tweets**
+# **AOC Among Us Tweets**
 
 To load this into RStudio:
 
