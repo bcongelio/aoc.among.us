@@ -10,3 +10,8 @@ urlfile = "https://raw.githubusercontent.com/bcongelio/aoc.among.us/main/aoc-amo
 
 aoc-among-us.df <- read_csv(url(urlfile))
 ```
+As well, setting your scientific notation in RStudio cleans a file of the columns up:
+
+```
+options(scipen = 9999)
+```
